@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": "examples"
+		},
+		{
+			"path": "exercise/a_variables"
+		},
+		{
+			"path": "exercise/b_functions"
+		},
+		{
+			"path": "exercise/c_simple_types"
+		},
+		{
+			"path": "exercise/d_control_flow_strings"
+		},
+		{
+			"path": "exercise/e_ownership_references"
+		},
+		{
+			"path": "exercise/f_structs_traits"
+		},
+		{
+			"path": "exercise/g_collections_enums"
+		},
+		{
+			"path": "exercise/h_closures_threads"
+		},
+		{
+			"path": "exercise/z_final_project"
+		},
+	],
+	"extensions": {
+		"recommendations": [
+			"rust-lang.rust-analyzer",
+			"tamasfe.even-better-toml"
+		]
+	},
+	"settings": {}
+}
